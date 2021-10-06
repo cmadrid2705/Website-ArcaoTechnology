@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?2044465f26c4204dd8a0535579f4866d") format("truetype"),
+url("./flaticon.woff?2044465f26c4204dd8a0535579f4866d") format("woff"),
+url("./flaticon.woff2?2044465f26c4204dd8a0535579f4866d") format("woff2"),
+url("./flaticon.eot?2044465f26c4204dd8a0535579f4866d#iefix") format("embedded-opentype"),
+url("./flaticon.svg?2044465f26c4204dd8a0535579f4866d#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    display: inline-block;
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    vertical-align: -.125em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-sitio-web:before {
+    content: "\f101";
+}
+.flaticon-circuito-cerrado-de-television:before {
+    content: "\f102";
+}
+.flaticon-telefono-movil:before {
+    content: "\f103";
+}
+.flaticon-megafono:before {
+    content: "\f104";
+}
+.flaticon-diseno-grafico:before {
+    content: "\f105";
+}
+.flaticon-apoyo-tecnico:before {
+    content: "\f106";
+}
